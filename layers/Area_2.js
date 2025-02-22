@@ -1,0 +1,1 @@
+var json_Area_2 = {"type":"FeatureCollection","name":"Area_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"AREA":"1129800 SQM"},"geometry":{"type":"MultiPolygon","coordinates":[[[[37.74402,-5.62104],[37.7441,-5.62104],[37.7546,-5.6165306],[37.7539,-5.62556],[37.7443,-5.63053],[37.74402,-5.62104]]]]}}]}
